@@ -29,4 +29,4 @@ while True:
                     webbrowser.get('firefox').open_new_tab(link)
         if found:
             break
-    time.sleep(10)
+    time.sleep(20)
